@@ -1,2 +1,0 @@
-# NextCodeWeb
-website for NextCode
